@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2026-08-12T19:56:31.900",
+      "lastModifiedTime": "2026-08-12T20:31:03.508",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -23,7 +23,7 @@
       "uploadLogFilesAtBoot": false,
       "uploadLogFilesAtSpecificTime": false,
       "uploadLogFilesTime": 0,
-      "base": "https://dfusen7.github.io/AV3-Signage/",
+      "base": "https://dfusen7.github.io/AV3-Signage",
       "next": "/current-sync.json",
       "event": "EVENT",
       "error": "ERROR",
@@ -56,10 +56,10 @@
         "name": "autoplay-Web Test.json",
         "hash": {
           "method": "SHA1",
-          "hex": "d410a8ee7737f6bcb35f471212685676b12f1958"
+          "hex": "146483b03e52c5406f9227c2c9c8336a47193275"
         },
-        "size": 20092,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/5/8/sha1-d410a8ee7737f6bcb35f471212685676b12f1958",
+        "size": 25963,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/7/5/sha1-146483b03e52c5406f9227c2c9c8336a47193275",
         "headers": null,
         "chargeable": false
       },
@@ -67,10 +67,10 @@
         "name": "Web Test.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "098b107eea428a347ff23901c9b683b9ae8194df"
+          "hex": "b96ff3f836974f3d6886d38752b76b5c17f6e3f9"
         },
-        "size": 23082,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/d/f/sha1-098b107eea428a347ff23901c9b683b9ae8194df",
+        "size": 31423,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/f/9/sha1-b96ff3f836974f3d6886d38752b76b5c17f6e3f9",
         "headers": null,
         "chargeable": false
       },
@@ -81,7 +81,51 @@
           "hex": "426e10fc503d468de552bec118306b5e035ebc3d"
         },
         "size": 688282,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/3/d/sha1-426e10fc503d468de552bec118306b5e035ebc3d",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/3/d/sha1-426e10fc503d468de552bec118306b5e035ebc3d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Amazing_Milky_Way_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "bb4f2d69bd3f12ddf208fe69b4453d2a4317f5f7"
+        },
+        "size": 1571388,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/f/7/sha1-bb4f2d69bd3f12ddf208fe69b4453d2a4317f5f7",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Beautiful_Universe_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "0de88972a366b8004adc908aac3b20ad6c458112"
+        },
+        "size": 1052817,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/1/2/sha1-0de88972a366b8004adc908aac3b20ad6c458112",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Galaxy_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "8b46689a3d56469ebf8fdf565a6d2cd4414fdd7d"
+        },
+        "size": 856253,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/7/d/sha1-8b46689a3d56469ebf8fdf565a6d2cd4414fdd7d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Planets_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "c829996b50efbe9af31b6227ceca1c0e86335d5a"
+        },
+        "size": 938746,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/5/a/sha1-c829996b50efbe9af31b6227ceca1c0e86335d5a",
         "headers": null,
         "chargeable": false
       },
@@ -92,7 +136,7 @@
           "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
         },
         "size": 142,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
         "headers": null,
         "chargeable": false,
         "group": "script"
@@ -104,7 +148,7 @@
           "hex": "ba60811c98b54d4093357801fd2d5855d84bbb1d"
         },
         "size": 1182034,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/1/d/sha1-ba60811c98b54d4093357801fd2d5855d84bbb1d",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/1/d/sha1-ba60811c98b54d4093357801fd2d5855d84bbb1d",
         "headers": null,
         "chargeable": false,
         "group": "script"
@@ -116,7 +160,7 @@
           "hex": "4f3208a1eb5ae305488bc1b3506b4c16a7fb008a"
         },
         "size": 892,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/8/a/sha1-4f3208a1eb5ae305488bc1b3506b4c16a7fb008a",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/8/a/sha1-4f3208a1eb5ae305488bc1b3506b4c16a7fb008a",
         "headers": null,
         "chargeable": false
       },
@@ -127,7 +171,7 @@
           "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
         },
         "size": 72,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
         "headers": null,
         "chargeable": false
       },
@@ -138,7 +182,7 @@
           "hex": "7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
         },
         "size": 5473,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a",
         "headers": null,
         "chargeable": false
       },
@@ -149,7 +193,7 @@
           "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
         },
         "size": 24922,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d",
         "headers": null,
         "chargeable": false
       }
