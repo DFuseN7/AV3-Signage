@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2026-08-12T19:07:32.003",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0,
+      "base": "https://github.com/DFuseN7/AV3-Signage",
+      "next": "/current-sync.json",
+      "event": "EVENT",
+      "error": "ERROR",
+      "deviceerror": "DEVICEERROR",
+      "uploadusage": "UPLOADUSAGE",
+      "getfile": "GETFILE",
+      "uploadLogs": "",
+      "uploadSnapshots": "",
+      "timeBetweenNetConnects": 300,
+      "contentDownloadsRestricted": false,
+      "contentDownloadRangeStart": 0,
+      "contentDownloadRangeLength": 0,
+      "deviceScreenShotsEnabled": false,
+      "deviceScreenShotsInterval": 900,
+      "deviceScreenShotsCountLimit": 5,
+      "deviceScreenShotsQuality": 100,
+      "deviceScreenShotsOrientation": "Landscape"
+    },
+    "server": {
+      "account": "ACCOUNT",
+      "user": "",
+      "password": "",
+      "enableBasicAuthentication": false,
+      "group": "GROUPNAME"
+    }
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-Web Test.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "d410a8ee7737f6bcb35f471212685676b12f1958"
+        },
+        "size": 20092,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/5/8/sha1-d410a8ee7737f6bcb35f471212685676b12f1958",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Web Test.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "098b107eea428a347ff23901c9b683b9ae8194df"
+        },
+        "size": 23082,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/d/f/sha1-098b107eea428a347ff23901c9b683b9ae8194df",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Earth_and_Moon_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "426e10fc503d468de552bec118306b5e035ebc3d"
+        },
+        "size": 688282,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/3/d/sha1-426e10fc503d468de552bec118306b5e035ebc3d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "ba60811c98b54d4093357801fd2d5855d84bbb1d"
+        },
+        "size": 1182034,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/1/d/sha1-ba60811c98b54d4093357801fd2d5855d84bbb1d",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4f3208a1eb5ae305488bc1b3506b4c16a7fb008a"
+        },
+        "size": 892,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/8/a/sha1-4f3208a1eb5ae305488bc1b3506b4c16a7fb008a",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+        },
+        "size": 5473,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+        },
+        "size": 24922,
+        "link": "https://github.com/DFuseN7/AV3-Signage/pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d",
+        "headers": null,
+        "chargeable": false
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
