@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2026-08-12T19:52:11.360",
+      "lastModifiedTime": "2026-08-12T19:56:31.900",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -53,6 +53,39 @@
   "files": {
     "download": [
       {
+        "name": "autoplay-Web Test.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "d410a8ee7737f6bcb35f471212685676b12f1958"
+        },
+        "size": 20092,
+        "link": "https://dfusen7.github.io/AV3-Signage//pool/5/8/sha1-d410a8ee7737f6bcb35f471212685676b12f1958",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Web Test.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "098b107eea428a347ff23901c9b683b9ae8194df"
+        },
+        "size": 23082,
+        "link": "https://dfusen7.github.io/AV3-Signage//pool/d/f/sha1-098b107eea428a347ff23901c9b683b9ae8194df",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Earth_and_Moon_1920x1080.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "426e10fc503d468de552bec118306b5e035ebc3d"
+        },
+        "size": 688282,
+        "link": "https://dfusen7.github.io/AV3-Signage//pool/3/d/sha1-426e10fc503d468de552bec118306b5e035ebc3d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
         "name": "autoplugins.brs",
         "hash": {
           "method": "SHA1",
@@ -80,10 +113,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "aa887392432f0f8e965d6652fecafa135b374631"
+          "hex": "4f3208a1eb5ae305488bc1b3506b4c16a7fb008a"
         },
-        "size": 34,
-        "link": "https://dfusen7.github.io/AV3-Signage//pool/3/1/sha1-aa887392432f0f8e965d6652fecafa135b374631",
+        "size": 892,
+        "link": "https://dfusen7.github.io/AV3-Signage//pool/8/a/sha1-4f3208a1eb5ae305488bc1b3506b4c16a7fb008a",
         "headers": null,
         "chargeable": false
       },
@@ -106,6 +139,17 @@
         },
         "size": 5473,
         "link": "https://dfusen7.github.io/AV3-Signage//pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+        },
+        "size": 24922,
+        "link": "https://dfusen7.github.io/AV3-Signage//pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d",
         "headers": null,
         "chargeable": false
       }
