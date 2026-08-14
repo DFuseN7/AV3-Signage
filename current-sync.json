@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2026-08-12T20:31:03.508",
+      "lastModifiedTime": "2026-08-14T19:06:03.071",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -56,10 +56,10 @@
         "name": "autoplay-Web Test.json",
         "hash": {
           "method": "SHA1",
-          "hex": "146483b03e52c5406f9227c2c9c8336a47193275"
+          "hex": "3c71ab07b2c8ff446e89fcf9d870f86ae53ecde9"
         },
-        "size": 25963,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/7/5/sha1-146483b03e52c5406f9227c2c9c8336a47193275",
+        "size": 27476,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/e/9/sha1-3c71ab07b2c8ff446e89fcf9d870f86ae53ecde9",
         "headers": null,
         "chargeable": false
       },
@@ -67,67 +67,84 @@
         "name": "Web Test.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "b96ff3f836974f3d6886d38752b76b5c17f6e3f9"
+          "hex": "9ac2af41b50ccaa88b17e48cd7dd6f1339dbb8a9"
         },
-        "size": 31423,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/f/9/sha1-b96ff3f836974f3d6886d38752b76b5c17f6e3f9",
+        "size": 33644,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/a/9/sha1-9ac2af41b50ccaa88b17e48cd7dd6f1339dbb8a9",
         "headers": null,
         "chargeable": false
       },
       {
-        "name": "Earth_and_Moon_1920x1080.jpg",
+        "name": "AV3 V1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "426e10fc503d468de552bec118306b5e035ebc3d"
+          "hex": "2285814499f793350e45f2162577b5c48a5ed3fc"
         },
-        "size": 688282,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/3/d/sha1-426e10fc503d468de552bec118306b5e035ebc3d",
+        "size": 16480430,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/f/c/sha1-2285814499f793350e45f2162577b5c48a5ed3fc",
         "headers": null,
-        "chargeable": false
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e20|CD=0|VFR=60.000000|D=00004e20|FT=00000000"
       },
       {
-        "name": "Amazing_Milky_Way_1920x1080.jpg",
+        "name": "WB v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "bb4f2d69bd3f12ddf208fe69b4453d2a4317f5f7"
+          "hex": "1d853a9d1e6d97417bce6a994b34d1e86b7ae999"
         },
-        "size": 1571388,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/f/7/sha1-bb4f2d69bd3f12ddf208fe69b4453d2a4317f5f7",
+        "size": 7982392,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/9/9/sha1-1d853a9d1e6d97417bce6a994b34d1e86b7ae999",
         "headers": null,
-        "chargeable": false
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
       },
       {
-        "name": "Beautiful_Universe_1920x1080.jpg",
+        "name": "ITS V1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "0de88972a366b8004adc908aac3b20ad6c458112"
+          "hex": "e74674029480a76372b15dc1dfb395840610d80d"
         },
-        "size": 1052817,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/1/2/sha1-0de88972a366b8004adc908aac3b20ad6c458112",
+        "size": 11346033,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/0/d/sha1-e74674029480a76372b15dc1dfb395840610d80d",
         "headers": null,
-        "chargeable": false
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e20|CD=0|VFR=30.000000|D=00004e20|FT=00000000"
       },
       {
-        "name": "Galaxy_1920x1080.jpg",
+        "name": "JOIC v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "8b46689a3d56469ebf8fdf565a6d2cd4414fdd7d"
+          "hex": "1f83ba30e8cda3295a37321cde31fd779b508b43"
         },
-        "size": 856253,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/7/d/sha1-8b46689a3d56469ebf8fdf565a6d2cd4414fdd7d",
+        "size": 17364153,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/4/3/sha1-1f83ba30e8cda3295a37321cde31fd779b508b43",
         "headers": null,
-        "chargeable": false
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
       },
       {
-        "name": "Planets_1920x1080.jpg",
+        "name": "CCA v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "c829996b50efbe9af31b6227ceca1c0e86335d5a"
+          "hex": "3121a111e040f9fa15678b280e2caad7a1f2e73d"
         },
-        "size": 938746,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/5/a/sha1-c829996b50efbe9af31b6227ceca1c0e86335d5a",
+        "size": 15624023,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/3/d/sha1-3121a111e040f9fa15678b280e2caad7a1f2e73d",
         "headers": null,
-        "chargeable": false
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
+      },
+      {
+        "name": "Sill v1.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "f02ed657e16d6c9bc31f597cd4e9708c21b8d8c2"
+        },
+        "size": 7434146,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/c/2/sha1-f02ed657e16d6c9bc31f597cd4e9708c21b8d8c2",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
@@ -157,10 +174,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "4f3208a1eb5ae305488bc1b3506b4c16a7fb008a"
+          "hex": "a4f88012fc1e120a0f6cee778a39cbd68a3d2279"
         },
         "size": 892,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/8/a/sha1-4f3208a1eb5ae305488bc1b3506b4c16a7fb008a",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/7/9/sha1-a4f88012fc1e120a0f6cee778a39cbd68a3d2279",
         "headers": null,
         "chargeable": false
       },
