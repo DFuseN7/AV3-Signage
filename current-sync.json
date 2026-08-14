@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2026-08-14T19:29:48.983",
+      "lastModifiedTime": "2026-08-14T19:44:57.089",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -56,10 +56,10 @@
         "name": "autoplay-Web Test.json",
         "hash": {
           "method": "SHA1",
-          "hex": "816a9b9156cb21c02361cca4a2e027931df770c6"
+          "hex": "054c533db5c53248e0e58a40b6371571fd4f40ac"
         },
         "size": 27476,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/c/6/sha1-816a9b9156cb21c02361cca4a2e027931df770c6",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/a/c/sha1-054c533db5c53248e0e58a40b6371571fd4f40ac",
         "headers": null,
         "chargeable": false
       },
@@ -67,10 +67,10 @@
         "name": "Web Test.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "2ff66921a2d6e99e1c3d494d60bb2b5bfecdc804"
+          "hex": "484ad096982a5675f31c6aa476ef95093b33de2c"
         },
-        "size": 33643,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/0/4/sha1-2ff66921a2d6e99e1c3d494d60bb2b5bfecdc804",
+        "size": 33469,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/2/c/sha1-484ad096982a5675f31c6aa476ef95093b33de2c",
         "headers": null,
         "chargeable": false
       },
@@ -111,18 +111,6 @@
         "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a7a|CD=0|VFR=30.001049|D=00004a7b|FT=00000000"
       },
       {
-        "name": "JOIC v1.mp4",
-        "hash": {
-          "method": "SHA1",
-          "hex": "13b6fbd0b8b34b02a5f11d41b754c5517f8e636e"
-        },
-        "size": 7306129,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/6/e/sha1-13b6fbd0b8b34b02a5f11d41b754c5517f8e636e",
-        "headers": null,
-        "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a59|CD=0|VFR=30.000525|D=00004a5a|FT=00000000"
-      },
-      {
         "name": "CCA v1.mp4",
         "hash": {
           "method": "SHA1",
@@ -145,6 +133,18 @@
         "headers": null,
         "chargeable": false,
         "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a7a|CD=0|VFR=30.001049|D=00004a7b|FT=00000000"
+      },
+      {
+        "name": "JOIC v1.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "9e6d6f60a276471490d799e0508b5093df7c11cc"
+        },
+        "size": 6900214,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/c/c/sha1-9e6d6f60a276471490d799e0508b5093df7c11cc",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a59|CD=0|VFR=30.000525|D=00004a5a|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
