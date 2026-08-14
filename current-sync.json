@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2026-08-14T19:06:03.071",
+      "lastModifiedTime": "2026-08-14T19:29:48.983",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -56,10 +56,10 @@
         "name": "autoplay-Web Test.json",
         "hash": {
           "method": "SHA1",
-          "hex": "3c71ab07b2c8ff446e89fcf9d870f86ae53ecde9"
+          "hex": "816a9b9156cb21c02361cca4a2e027931df770c6"
         },
         "size": 27476,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/e/9/sha1-3c71ab07b2c8ff446e89fcf9d870f86ae53ecde9",
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/c/6/sha1-816a9b9156cb21c02361cca4a2e027931df770c6",
         "headers": null,
         "chargeable": false
       },
@@ -67,10 +67,10 @@
         "name": "Web Test.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "9ac2af41b50ccaa88b17e48cd7dd6f1339dbb8a9"
+          "hex": "2ff66921a2d6e99e1c3d494d60bb2b5bfecdc804"
         },
-        "size": 33644,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/a/9/sha1-9ac2af41b50ccaa88b17e48cd7dd6f1339dbb8a9",
+        "size": 33643,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/0/4/sha1-2ff66921a2d6e99e1c3d494d60bb2b5bfecdc804",
         "headers": null,
         "chargeable": false
       },
@@ -87,18 +87,6 @@
         "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e20|CD=0|VFR=60.000000|D=00004e20|FT=00000000"
       },
       {
-        "name": "WB v1.mp4",
-        "hash": {
-          "method": "SHA1",
-          "hex": "1d853a9d1e6d97417bce6a994b34d1e86b7ae999"
-        },
-        "size": 7982392,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/9/9/sha1-1d853a9d1e6d97417bce6a994b34d1e86b7ae999",
-        "headers": null,
-        "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
-      },
-      {
         "name": "ITS V1.mp4",
         "hash": {
           "method": "SHA1",
@@ -111,40 +99,52 @@
         "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e20|CD=0|VFR=30.000000|D=00004e20|FT=00000000"
       },
       {
+        "name": "WB v1.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "0ec772b7899bcc192076da218e3fea133b8f9f60"
+        },
+        "size": 7785395,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/6/0/sha1-0ec772b7899bcc192076da218e3fea133b8f9f60",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a7a|CD=0|VFR=30.001049|D=00004a7b|FT=00000000"
+      },
+      {
         "name": "JOIC v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "1f83ba30e8cda3295a37321cde31fd779b508b43"
+          "hex": "13b6fbd0b8b34b02a5f11d41b754c5517f8e636e"
         },
-        "size": 17364153,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/4/3/sha1-1f83ba30e8cda3295a37321cde31fd779b508b43",
+        "size": 7306129,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/6/e/sha1-13b6fbd0b8b34b02a5f11d41b754c5517f8e636e",
         "headers": null,
         "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a59|CD=0|VFR=30.000525|D=00004a5a|FT=00000000"
       },
       {
         "name": "CCA v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "3121a111e040f9fa15678b280e2caad7a1f2e73d"
+          "hex": "e4f281f81cf0233646fcb473a23a556dda0194db"
         },
-        "size": 15624023,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/3/d/sha1-3121a111e040f9fa15678b280e2caad7a1f2e73d",
+        "size": 14646698,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/d/b/sha1-e4f281f81cf0233646fcb473a23a556dda0194db",
         "headers": null,
         "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a38|CD=0|VFR=30.000000|D=00004a38|FT=00000000"
       },
       {
         "name": "Sill v1.mp4",
         "hash": {
           "method": "SHA1",
-          "hex": "f02ed657e16d6c9bc31f597cd4e9708c21b8d8c2"
+          "hex": "02801c73d98352c318da3b559238644ccdc03fdd"
         },
-        "size": 7434146,
-        "link": "https://dfusen7.github.io/AV3-Signage/pool/c/2/sha1-f02ed657e16d6c9bc31f597cd4e9708c21b8d8c2",
+        "size": 7222666,
+        "link": "https://dfusen7.github.io/AV3-Signage/pool/d/d/sha1-02801c73d98352c318da3b559238644ccdc03fdd",
         "headers": null,
         "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004e62|CD=0|VFR=30.000998|D=00004e63|FT=00000000"
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1920|H=1080|VD=00004a7a|CD=0|VFR=30.001049|D=00004a7b|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
